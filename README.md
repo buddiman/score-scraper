@@ -1,4 +1,4 @@
-#score-scraper
+# score-scraper
 Scrape game informations and scores from:
 * flashscore
 * kicker
@@ -6,12 +6,14 @@ Scrape game informations and scores from:
 Support planned for:
 * sofascore
 
-##How to install
+**Caution: No safety checks implemented.**
+
+## How to install
 ```
 pip install score-scraper
 ```
 
-##License
+## License
 MIT
 
 
