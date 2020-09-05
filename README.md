@@ -1,4 +1,17 @@
+#score-scraper
 Scrape game informations and scores from:
 * flashscore
-* sofascore
 * kicker
+
+Support planned for:
+* sofascore
+
+##How to install
+```
+pip install score-scraper
+```
+
+##License
+MIT
+
+

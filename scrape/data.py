@@ -1,5 +1,3 @@
-
-
 class GameInformations():
     '''
     Object that holds informations for a game before it starts
